@@ -227,7 +227,7 @@ Supported projects including:
 
 - 🇬🇧 English
 - 🇪🇹 Amharic
-- 🗣️ Oromo
+- 🗣️Afaan Oromo
 
 ---
 
@@ -264,3 +264,9 @@ My goal is to continue developing my skills in **Software Development and Qualit
 ![Getu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Getu-Tesfaye&show_icons=true&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Getu-Tesfaye&layout=compact&hide_border=true)
+
+---
+
+## 🔥 GitHub Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Getu-Tesfaye&hide_border=true)
