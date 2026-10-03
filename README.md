@@ -79,7 +79,7 @@ I enjoy building web applications, testing software, solving problems, and learn
 - Currency watchlist
 - User-friendly interface
 
-**Technologies:** JavaScript, React, API integration
+**Technologies:** JavaScript, API integration
 
 ---
 
