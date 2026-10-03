@@ -27,28 +27,41 @@ I enjoy building web applications, testing software, solving problems, and learn
 
 ### 💻 Programming & Web Development
 
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
-![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+[![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge\&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+[![Python](https://img.shields.io/badge/Python-black?style=for-the-badge\&logo=python)](https://docs.python.org/3/)
+
+[![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge\&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
+[![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge\&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+[![React](https://img.shields.io/badge/React-black?style=for-the-badge\&logo=react)](https://react.dev/)
+
+[![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge\&logo=next.js)](https://nextjs.org/docs)
 
 ### 🧪 QA & Testing
 
-![QA Testing](https://img.shields.io/badge/QA_Testing-black?style=for-the-badge)
-![Manual Testing](https://img.shields.io/badge/Manual_Testing-black?style=for-the-badge)
-![Functional Testing](https://img.shields.io/badge/Functional_Testing-black?style=for-the-badge)
-![Debugging](https://img.shields.io/badge/Debugging-black?style=for-the-badge)
-![Defect Identification](https://img.shields.io/badge/Defect_Identification-black?style=for-the-badge)
+[![QA Testing](https://img.shields.io/badge/QA_Testing-black?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/Accessibility)
+
+[![Manual Testing](https://img.shields.io/badge/Manual_Testing-black?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Testing)
+
+[![Functional Testing](https://img.shields.io/badge/Functional_Testing-black?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Testing)
+
+[![Debugging](https://img.shields.io/badge/Debugging-black?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Mozilla/Debugging)
+
+[![Defect Identification](https://img.shields.io/badge/Defect_Identification-black?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Testing)
 
 ### 🔧 Tools
 
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-black?style=for-the-badge&logo=visualstudiocode)
-![MATLAB](https://img.shields.io/badge/MATLAB-black?style=for-the-badge&logo=mathworks)
-![CSPro](https://img.shields.io/badge/CSPro-black?style=for-the-badge)
+[![Git](https://img.shields.io/badge/Git-black?style=for-the-badge\&logo=git)](https://git-scm.com/doc)
+
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)](https://docs.github.com/)
+
+[![VS Code](https://img.shields.io/badge/VS_Code-black?style=for-the-badge\&logo=visualstudiocode)](https://code.visualstudio.com/docs)
+
+[![MATLAB](https://img.shields.io/badge/MATLAB-black?style=for-the-badge\&logo=mathworks)](https://www.mathworks.com/help/matlab/)
+
+[![CSPro](https://img.shields.io/badge/CSPro-black?style=for-the-badge)](https://www.census.gov/data/software/cspro.html)
 
 ---
 
