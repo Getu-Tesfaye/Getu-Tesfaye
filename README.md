@@ -12,7 +12,7 @@ I enjoy building web applications, testing software, solving problems, and learn
 
 ## 👨‍💻 About Me
 
-- 🎓 Electrical and Computer Engineering graduate from **Mekelle University**
+- 🎓 Electrical and Computer Engineering graduate 
 - 💻 Currently studying Software Development and Quality Assurance
 - 🏫 Advanced Digital Skills Training — **IBT College of Canada**
 - 📊 2 years of experience at the **Ethiopian Statistics Service**
