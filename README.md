@@ -172,7 +172,7 @@ A website project focused on page structure, navigation, layouts, and responsive
 
 ### 🎓 Bachelor's Degree in Electrical and Computer Engineering
 
-**Mekelle University**
+**ME University**
 
 Five-year undergraduate engineering program.
 
